@@ -37,7 +37,7 @@ Once `npx` is present, proceed with the wrapper script. A global install of `pla
 export PWCLI="$(git rev-parse --show-toplevel)/.agents/skills/playwright/scripts/playwright_cli.sh"
 ```
 
-This skill is scoped to the `fdekit` repository and lives under `.agents/skills/playwright`.
+This path assumes the skill was copied to the current project's `.agents/skills/playwright` directory.
 
 ## Quick start
 

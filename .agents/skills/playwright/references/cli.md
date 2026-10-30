@@ -7,7 +7,7 @@ export PWCLI="$(git rev-parse --show-toplevel)/.agents/skills/playwright/scripts
 "$PWCLI" --help
 ```
 
-This skill lives in the `fdekit` repository under `.agents/skills/playwright`.
+This path assumes the skill was copied to the current project's `.agents/skills/playwright` directory.
 
 Optional convenience alias:
 

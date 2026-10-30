@@ -16,9 +16,9 @@ Forward-deployed engineering skills: problem discovery → requirements alignmen
 ```bash
 git clone https://github.com/limJhyeok/fdekit.git
 # 프로젝트 단위
-mkdir -p .claude/skills && cp -r fdekit/skills/* .claude/skills/
+mkdir -p .claude/skills && cp -r fdekit/.agents/skills/* .claude/skills/
 # 또는 사용자 전역
-mkdir -p ~/.claude/skills && cp -r fdekit/skills/* ~/.claude/skills/
+mkdir -p ~/.claude/skills && cp -r fdekit/.agents/skills/* ~/.claude/skills/
 ```
 
 애플리케이션 코드나 보일러플레이트는 포함하지 않는다. 작업 절차·템플릿·점검 목록만 담는다.

@@ -12,7 +12,6 @@ Forward-deployed engineering skills: problem discovery → requirements alignmen
 | 4 | `write-handoff` | 다음 개발자를 위한 인수인계 문서 정리 | `HANDOFF.md` |
 | 5 | `quiz` | 구현한 코드를 스스로 설명하는 리허설 | 저장소 밖의 `~/study/<저장소 이름>/` 기록 |
 
-`playwright`는 웹 화면을 브라우저에서 확인할 때 쓰는 선택 스킬이다. 사용 시 Node.js/npm의 `npx`가 필요하다.
 
 ## Codex에서 프로젝트별 설치
 
